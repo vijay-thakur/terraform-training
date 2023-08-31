@@ -1,5 +1,5 @@
 # terraform-training
-Terrafrom Training
+Terrafrom Training Assignment
 
 - You must define a Backend for your Terraform project.
 - That means you will have to create an S3 bucket and a DynamoDB table first
